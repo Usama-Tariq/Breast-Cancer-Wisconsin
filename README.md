@@ -32,13 +32,13 @@ Note that the results summarized above in Past Usage refer to a dataset of size 
 
 ##### Revised Nov 22,1991: Removed 765878,4,5,9,7,10,10,10,3,8,1 no record
 
-##### : Removed 484201,2,7,8,8,4,3,10,3,4,1 zero epithelial
+##### Removed 484201,2,7,8,8,4,3,10,3,4,1 zero epithelial
 
-##### : Changed 0 to 1 in field 6 of sample 1219406
+##### Changed 0 to 1 in field 6 of sample 1219406
 
-##### : Changed 0 to 1 in field 8 of following sample:
+##### Changed 0 to 1 in field 8 of following sample:
 
-##### : 1182404,2,3,1,1,1,2,0,1,1,1
+##### 1182404,2,3,1,1,1,2,0,1,1,1
 
 
 Attribute Information:
